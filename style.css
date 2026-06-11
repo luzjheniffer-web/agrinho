@@ -29,12 +29,13 @@ nav a{
 
 .card{
   background:white;
-  max-width:1000px;
+  max-width:1100px;
   margin:30px auto;
-  padding:25px;
+  padding:40px;
   border-radius:20px;
   box-shadow:0 4px 12px rgba(0,0,0,.15);
   transition:.3s;
+  font-size:22px;
 }
 
 .card:hover{
@@ -50,4 +51,17 @@ nav a{
   border-radius:50%;
   font-size:20px;
   cursor:pointer;
+}
+h1{
+  font-size:60px;
+}
+
+h2{
+  font-size:40px;
+  color:#b30000;
+}
+
+p{
+  font-size:24px;
+  text-align:justify;
 }
